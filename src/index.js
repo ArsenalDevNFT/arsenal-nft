@@ -5,9 +5,6 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-  <Web3ReactProvider getLibrary={getLibrary}>
-            <Component {...pageProps} />
-            </Web3ReactProvider>
   <React.StrictMode>
     <App />
   </React.StrictMode>,
