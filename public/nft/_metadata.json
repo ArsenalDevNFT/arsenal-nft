@@ -1,0 +1,3142 @@
+[
+  {
+    "name": "Arsenal #1",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/1.png",
+    "dna": "7e5d50b4e7b69755afc753ca0f3a2526793e760c",
+    "edition": 1,
+    "date": 1637526188056,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggGOLDbody"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #2",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/2.png",
+    "dna": "2db56dca1c492ad0be858ccea9cef870b6ad8aad",
+    "edition": 2,
+    "date": 1637526188088,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggNUFFbody"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #3",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/3.png",
+    "dna": "665fdf073f111a53d568efbdbc085261ef553b80",
+    "edition": 3,
+    "date": 1637526188116,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggWOODLANDbody"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #4",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/4.png",
+    "dna": "3daf08d0b8d9bce28f106a1e76e8db85a6a4360c",
+    "edition": 4,
+    "date": 1637526188144,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggDESERTbody"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #5",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/5.png",
+    "dna": "50c9cc3ed4a335b97d9d21eafd6f9ec69a69597f",
+    "edition": 5,
+    "date": 1637526188172,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggAIRSOFTbody"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #6",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/6.png",
+    "dna": "614e030ead64da6184690ca06631af8dbc29619d",
+    "edition": 6,
+    "date": 1637526188200,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggWESTERNbody"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #7",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/7.png",
+    "dna": "b96f25fcf0bcbf22ef09d9cb88f7af853d9abc9a",
+    "edition": 7,
+    "date": 1637526188228,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggURBANbody"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #8",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/8.png",
+    "dna": "f2fa6552a5a9d0fd6e9800c51da07a85b66d3793",
+    "edition": 8,
+    "date": 1637526188257,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggTIGERSKINbody"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #9",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/9.png",
+    "dna": "d48558d1177ce3e6bc34e3d593e42449788421fd",
+    "edition": 9,
+    "date": 1637526188286,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggPLAINbody"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #10",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/10.png",
+    "dna": "c1246f96d97c19d3d60d29346397075e179617d1",
+    "edition": 10,
+    "date": 1637526188317,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggFTMbody"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #11",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/11.png",
+    "dna": "b59bb200f57bc5aceb71c062ca2bf351b00c74b2",
+    "edition": 11,
+    "date": 1637526188350,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggNUFFbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggFTMsight"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #12",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/12.png",
+    "dna": "d6da0b1f1d8c12c9e4c3a0ee503ce3caf392c4fe",
+    "edition": 12,
+    "date": 1637526188387,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggFTMbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggWESTERNsight"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #13",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/13.png",
+    "dna": "88714ef87cd40f07316301bd6afa52e3f9ec0060",
+    "edition": 13,
+    "date": 1637526188420,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggNUFFbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggTIGERSKINsight"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #14",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/14.png",
+    "dna": "70c7e32f67b90751a6f9c0988f7bbf5f3009b6d2",
+    "edition": 14,
+    "date": 1637526188454,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggWESTERNbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggURBANsight"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #15",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/15.png",
+    "dna": "a748f7543ba3ad688073ea062ece1ea43ad2d981",
+    "edition": 15,
+    "date": 1637526188487,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggNUFFbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggDESERTsight"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #16",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/16.png",
+    "dna": "22a256c4b78db08b05c5deb4e98f3068ae2c8c49",
+    "edition": 16,
+    "date": 1637526188520,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggURBANbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggWESTERNsight"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #17",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/17.png",
+    "dna": "e2e3f20514471a574cd6e5ab2f36ba29b249e047",
+    "edition": 17,
+    "date": 1637526188553,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggWESTERNbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggPLAINsight"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #18",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/18.png",
+    "dna": "c2590773310764582653fa30cad965d84c2f8a98",
+    "edition": 18,
+    "date": 1637526188586,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggURBANbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggDESERTsight"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #19",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/19.png",
+    "dna": "8e3739d035865e2d287a9616ff5ef3864eaa3b38",
+    "edition": 19,
+    "date": 1637526188619,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggGOLDbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggGOLDsight"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #20",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/20.png",
+    "dna": "f28fa6f807f543eeffadbaa195466495dc0fe059",
+    "edition": 20,
+    "date": 1637526188654,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggWOODLANDbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggURBANsight"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #21",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/21.png",
+    "dna": "e3728a65f71dbc029f3ae3ab59e5852e20607494",
+    "edition": 21,
+    "date": 1637526188687,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggFTMbody"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggWESTERNmag"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #22",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/22.png",
+    "dna": "2bc1ed7961ea9773edda6ddf2c1e132e991a718a",
+    "edition": 22,
+    "date": 1637526188720,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggWESTERNbody"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggPLAINmag"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #23",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/23.png",
+    "dna": "21cde8cfb388350bf9df3254af767a90374dfa75",
+    "edition": 23,
+    "date": 1637526188753,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggWESTERNbody"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggTIGERSKINmag"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #24",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/24.png",
+    "dna": "4fa0e31e5bc8b07f9d4d56323b3a878426f5cfeb",
+    "edition": 24,
+    "date": 1637526188786,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggNUFFbody"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggFTMmag"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #25",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/25.png",
+    "dna": "f0b9c4c602208d0b411d2afb3a014f2768e031b3",
+    "edition": 25,
+    "date": 1637526188820,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggNUFFbody"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggPLAINmag"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #26",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/26.png",
+    "dna": "c93ff23f1843b5602d1e22033aec1f54791e79f9",
+    "edition": 26,
+    "date": 1637526188863,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggGOLDbody"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggURBANmag"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #27",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/27.png",
+    "dna": "2e25949f111737eec3899b1463731dc0c2e4f14d",
+    "edition": 27,
+    "date": 1637526188895,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggURBANbody"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggTIGERSKINmag"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #28",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/28.png",
+    "dna": "60c27568a2f415572bceddd8a456caf6b1db1ced",
+    "edition": 28,
+    "date": 1637526188928,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggWOODLANDbody"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggFTMmag"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #29",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/29.png",
+    "dna": "7ad3582ce2bdd1368647b42da84ebb41b3bb770c",
+    "edition": 29,
+    "date": 1637526188964,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggFTMbody"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggDESERTmag"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #30",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/30.png",
+    "dna": "76c5de8fcf3e26d72906ef50f2322d134de9e53f",
+    "edition": 30,
+    "date": 1637526188997,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggNUFFbody"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggGOLDmag"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #31",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/31.png",
+    "dna": "436d1a490902a298fb0e3e05278c53b526d54a8b",
+    "edition": 31,
+    "date": 1637526189031,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggDESERTbody"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggPLAINreddot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #32",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/32.png",
+    "dna": "1a1296a4be27254cc4e0a65badcf77a85a1f9686",
+    "edition": 32,
+    "date": 1637526189063,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggFTMbody"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggGOLDreddot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #33",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/33.png",
+    "dna": "d5368899a464b176e9955c7c1886001ff0984f03",
+    "edition": 33,
+    "date": 1637526189096,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggFTMbody"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggTIGERSKINreddot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #34",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/34.png",
+    "dna": "99e4958e22ba180df82e257f3dc29bd8b18a73b3",
+    "edition": 34,
+    "date": 1637526189130,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggTIGERSKINbody"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggURBANreddot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #35",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/35.png",
+    "dna": "e87d522b3769199b954adfe164689374c9e0a597",
+    "edition": 35,
+    "date": 1637526189163,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggGOLDbody"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggURBANreddot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #36",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/36.png",
+    "dna": "3171d3657bb4602bf6430635b548d26d42691e6c",
+    "edition": 36,
+    "date": 1637526189198,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggNUFFbody"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggWESTERNreddot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #37",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/37.png",
+    "dna": "e96b3689917d74933e8afbbb1f6bc63087a3bd88",
+    "edition": 37,
+    "date": 1637526189230,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggTIGERSKINbody"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggWESTERNreddot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #38",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/38.png",
+    "dna": "bd7f6647cfd89b5ebaf7f2c537974dd180a1c742",
+    "edition": 38,
+    "date": 1637526189263,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggGOLDbody"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggTIGERSKINreddot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #39",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/39.png",
+    "dna": "97b94ab44ffdda20702de2653b7727823394efce",
+    "edition": 39,
+    "date": 1637526189296,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggURBANbody"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggDESERTreddot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #40",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/40.png",
+    "dna": "66b562adeda73e954865f09aa585e47396a3357d",
+    "edition": 40,
+    "date": 1637526189329,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggNUFFbody"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggFTMreddot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #41",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/41.png",
+    "dna": "467d3aeb4450218a2ae68c4c4ba5e7219ef7916f",
+    "edition": 41,
+    "date": 1637526189362,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggWESTERNbody"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggWOODLANDgreendot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #42",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/42.png",
+    "dna": "70d4b9c51ada24eeb9692498db4c6fe712f43adc",
+    "edition": 42,
+    "date": 1637526189395,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggURBANbody"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggTIGERSKINgreendot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #43",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/43.png",
+    "dna": "77e0aeba884b2ca4f365976bbce853a15091e86e",
+    "edition": 43,
+    "date": 1637526189427,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggTIGERSKINbody"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggPLAINgreendot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #44",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/44.png",
+    "dna": "f8acda9791a2c9b2332b47e5525d08d6ff19c0d3",
+    "edition": 44,
+    "date": 1637526189459,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggURBANbody"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggWOODLANDgreendot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #45",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/45.png",
+    "dna": "997cdc42b3c7dc482d501045608c7aa005ca2b45",
+    "edition": 45,
+    "date": 1637526189492,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggWESTERNbody"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggTIGERSKINgreendot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #46",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/46.png",
+    "dna": "63bcc93becfae53f2054d216f37935adddeee264",
+    "edition": 46,
+    "date": 1637526189524,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggWOODLANDbody"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggGOLDgreendot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #47",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/47.png",
+    "dna": "d816991cb9451740153771ca14b59f0f1caf9c7d",
+    "edition": 47,
+    "date": 1637526189565,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggWESTERNbody"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggGOLDgreendot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #48",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/48.png",
+    "dna": "ca6156595248af2250002286c2eea2bdb80bf4c6",
+    "edition": 48,
+    "date": 1637526189598,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggDESERTbody"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggFTMgreendot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #49",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/49.png",
+    "dna": "85ce0c430b473e1af58bfa8be0ebf3bd7d106373",
+    "edition": 49,
+    "date": 1637526189630,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggGOLDbody"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggGOLDgreendot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #50",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/50.png",
+    "dna": "02bd67056bd5949971b93d1833d97b09d36bbc9e",
+    "edition": 50,
+    "date": 1637526189661,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggFTMbody"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggTIGERSKINgreendot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #51",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/51.png",
+    "dna": "7c6278726741c58991f84068e338f3b3f48bad66",
+    "edition": 51,
+    "date": 1637526189703,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggWOODLANDbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggGOLDsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggDESERTmag"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #52",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/52.png",
+    "dna": "5a542b6c7cec3518da5103cc5b6f5fb6b6357b8d",
+    "edition": 52,
+    "date": 1637526189743,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggAIRSOFTbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggDESERTsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggPLAINmag"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #53",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/53.png",
+    "dna": "59f8576af7994253cd7a562b8d2f9ccbbb77b9c0",
+    "edition": 53,
+    "date": 1637526189782,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggTIGERSKINbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggDESERTsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggPLAINmag"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #54",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/54.png",
+    "dna": "384a8f973b916f3908caa0a4a0b2b69391d2113a",
+    "edition": 54,
+    "date": 1637526189820,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggDESERTbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggWOODLANDsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggDESERTmag"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #55",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/55.png",
+    "dna": "8ddc7669fb90c43e032f4d2abe0d12c6774a9c01",
+    "edition": 55,
+    "date": 1637526189856,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggURBANbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggGOLDsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggWOODLANDmag"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #56",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/56.png",
+    "dna": "5d09ebc15ad70299790b6929e52890a045b790cd",
+    "edition": 56,
+    "date": 1637526189893,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggDESERTbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggTIGERSKINsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggURBANmag"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #57",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/57.png",
+    "dna": "749d8210fdddebe0e2bb67ec18d692bbfd2b8374",
+    "edition": 57,
+    "date": 1637526189931,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggFTMbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggWESTERNsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggGOLDmag"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #58",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/58.png",
+    "dna": "fa7f2578fafe8733e940da5af12a359c18ffb0cd",
+    "edition": 58,
+    "date": 1637526189968,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggGOLDbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggDESERTsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggURBANmag"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #59",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/59.png",
+    "dna": "2c8eeacf418b68f60bbae304d27f06b1a12197a2",
+    "edition": 59,
+    "date": 1637526190006,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggFTMbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggGOLDsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggWOODLANDmag"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #60",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/60.png",
+    "dna": "c3d17ee556ff228c7a3f51fa38e8bebf29b9e084",
+    "edition": 60,
+    "date": 1637526190044,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggTIGERSKINbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggFTMsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggGOLDmag"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #61",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/61.png",
+    "dna": "fa1454d181fc3780f5f3c279dd4ded31457ccfd7",
+    "edition": 61,
+    "date": 1637526190082,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggURBANbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggTIGERSKINsight"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggURBANreddot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #62",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/62.png",
+    "dna": "8acbec8311426ffc7b063e4633653074b52ea771",
+    "edition": 62,
+    "date": 1637526190121,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggAIRSOFTbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggDESERTsight"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggWOODLANDreddot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #63",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/63.png",
+    "dna": "e5339111041cc5215820bebc0ff445b3413309be",
+    "edition": 63,
+    "date": 1637526190170,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggURBANbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggNUFFsight"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggPLAINreddot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #64",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/64.png",
+    "dna": "20bf93b3d0fae5ea117e31903fe092990047cd04",
+    "edition": 64,
+    "date": 1637526190207,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggGOLDbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggNUFFsight"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggNUFFreddot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #65",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/65.png",
+    "dna": "edf38217279faf255a62fd25429bbf606371a02c",
+    "edition": 65,
+    "date": 1637526190244,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggURBANbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggWOODLANDsight"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggNUFFreddot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #66",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/66.png",
+    "dna": "52a627776a93fe93ebc3dc5129d894d204769248",
+    "edition": 66,
+    "date": 1637526190281,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggPLAINbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggPLAINsight"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggFTMreddot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #67",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/67.png",
+    "dna": "48c842ac2cd5ce75e9824943471051248ee8c2c0",
+    "edition": 67,
+    "date": 1637526190318,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggAIRSOFTbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggPLAINsight"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggNUFFreddot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #68",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/68.png",
+    "dna": "9602e557279a69e13f1aa36505e9312eada7e12e",
+    "edition": 68,
+    "date": 1637526190355,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggGOLDbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggFTMsight"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggFTMreddot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #69",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/69.png",
+    "dna": "dec2e27746e43b1ae3ef2352d1b3d03307f53e90",
+    "edition": 69,
+    "date": 1637526190392,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggTIGERSKINbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggFTMsight"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggFTMreddot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #70",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/70.png",
+    "dna": "25d539510244be34db2124fcab2770c102c9e099",
+    "edition": 70,
+    "date": 1637526190429,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggFTMbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggNUFFsight"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggGOLDreddot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #71",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/71.png",
+    "dna": "92d593c95e73e379716b8a327acb3eb0489cb465",
+    "edition": 71,
+    "date": 1637526190467,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggAIRSOFTbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggDESERTsight"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggWESTERNgreendot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #72",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/72.png",
+    "dna": "d26a21db7892f45a46fa4010c5c9456a623f2680",
+    "edition": 72,
+    "date": 1637526190504,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggURBANbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggWESTERNsight"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggGOLDgreendot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #73",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/73.png",
+    "dna": "65d2e2bf07c98c1b6aaa19cb73c406e73768bb43",
+    "edition": 73,
+    "date": 1637526190540,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggFTMbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggNUFFsight"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggWESTERNgreendot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #74",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/74.png",
+    "dna": "06bc0f6618a5de2b7eaed323945e90e342a0ea0e",
+    "edition": 74,
+    "date": 1637526190578,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggGOLDbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggURBANsight"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggFTMgreendot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #75",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/75.png",
+    "dna": "06788b0f8c8ee14a3b65587888b52b60c1cddafd",
+    "edition": 75,
+    "date": 1637526190615,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggFTMbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggNUFFsight"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggNUFFgreendot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #76",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/76.png",
+    "dna": "a6717b53b48e5c9d3f359f0c2b3bac98776f1d7a",
+    "edition": 76,
+    "date": 1637526190663,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggNUFFbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggNUFFsight"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggTIGERSKINgreendot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #77",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/77.png",
+    "dna": "ef15b567a0b20e73ec0b1366f0f9f9c7a82352be",
+    "edition": 77,
+    "date": 1637526190701,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggAIRSOFTbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggURBANsight"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggTIGERSKINgreendot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #78",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/78.png",
+    "dna": "cf496f138e6cd08c3313039336ac7cadd42fee05",
+    "edition": 78,
+    "date": 1637526190738,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggPLAINbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggTIGERSKINsight"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggFTMgreendot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #79",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/79.png",
+    "dna": "8b15ed029ff7c68204e0257f2dd0162587ab0d06",
+    "edition": 79,
+    "date": 1637526190775,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggURBANbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggWOODLANDsight"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggURBANgreendot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #80",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/80.png",
+    "dna": "be80915af0cab3323ac2b2e8751fede66264653b",
+    "edition": 80,
+    "date": 1637526190812,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggFTMbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggGOLDsight"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggTIGERSKINgreendot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #81",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/81.png",
+    "dna": "028f167e23d90367596be422fb3b7e026429cc97",
+    "edition": 81,
+    "date": 1637526190849,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggURBANbody"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggDESERTreddot"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggURBANmag"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #82",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/82.png",
+    "dna": "3b5eab2ee9d9ad31132df5f47f634979b9c25002",
+    "edition": 82,
+    "date": 1637526190887,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggPLAINbody"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggWESTERNreddot"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggURBANmag"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #83",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/83.png",
+    "dna": "7f3d8ff725379528e500c3fbf31fe4b8b2aa0087",
+    "edition": 83,
+    "date": 1637526190924,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggAIRSOFTbody"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggNUFFreddot"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggFTMmag"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #84",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/84.png",
+    "dna": "3fbb2e27d082e3df93db12aaddde9337e78dd649",
+    "edition": 84,
+    "date": 1637526190961,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggGOLDbody"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggNUFFreddot"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggNUFFmag"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #85",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/85.png",
+    "dna": "62fff0757dd51f1cf045810611a558a771582060",
+    "edition": 85,
+    "date": 1637526190997,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggFTMbody"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggDESERTreddot"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggWOODLANDmag"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #86",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/86.png",
+    "dna": "419ab1ee56443713c25a57f013230f42ecda081a",
+    "edition": 86,
+    "date": 1637526191035,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggPLAINbody"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggGOLDreddot"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggNUFFmag"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #87",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/87.png",
+    "dna": "a4d03924ad6fb93abf33b5f79ee442dd26c52ec1",
+    "edition": 87,
+    "date": 1637526191071,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggGOLDbody"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggFTMreddot"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggURBANmag"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #88",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/88.png",
+    "dna": "af679cb78d5167ace8d618df32af4beeaa17b69e",
+    "edition": 88,
+    "date": 1637526191108,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggTIGERSKINbody"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggDESERTreddot"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggWOODLANDmag"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #89",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/89.png",
+    "dna": "7adcffe5d1cd496681a82342495b4dc8ab90b373",
+    "edition": 89,
+    "date": 1637526191145,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggNUFFbody"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggNUFFreddot"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggDESERTmag"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #90",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/90.png",
+    "dna": "e48c081670a6d878141b11ec9f287f821f4bff01",
+    "edition": 90,
+    "date": 1637526191189,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggWOODLANDbody"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggFTMreddot"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggWOODLANDmag"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #91",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/91.png",
+    "dna": "71cb702f5339cdaadf51dea818427aed1191e737",
+    "edition": 91,
+    "date": 1637526191227,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggTIGERSKINbody"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggNUFFgreendot"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggGOLDmag"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #92",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/92.png",
+    "dna": "4b46d72f5cc4f8e1aaabf928c7b1f236a91a7439",
+    "edition": 92,
+    "date": 1637526191264,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggGOLDbody"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggWOODLANDgreendot"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggPLAINmag"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #93",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/93.png",
+    "dna": "dab4ce3bbb00d94d5261f4b50d4e1fb46ce583dc",
+    "edition": 93,
+    "date": 1637526191302,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggWOODLANDbody"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggTIGERSKINgreendot"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggPLAINmag"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #94",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/94.png",
+    "dna": "1b1fac009e8e49d269e7a03b655a936fe73ff3ac",
+    "edition": 94,
+    "date": 1637526191339,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggGOLDbody"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggGOLDgreendot"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggURBANmag"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #95",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/95.png",
+    "dna": "f4c26c681516696cbb4fc7f29385a68ca56b5c8d",
+    "edition": 95,
+    "date": 1637526191377,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggFTMbody"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggWOODLANDgreendot"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggWESTERNmag"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #96",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/96.png",
+    "dna": "d3c6482c5c8e08a9f2fef762817804f0107f8ec4",
+    "edition": 96,
+    "date": 1637526191415,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggAIRSOFTbody"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggDESERTgreendot"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggGOLDmag"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #97",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/97.png",
+    "dna": "b308615459056e0f7a2973d698bd88040910e649",
+    "edition": 97,
+    "date": 1637526191452,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggNUFFbody"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggGOLDgreendot"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggURBANmag"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #98",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/98.png",
+    "dna": "37f74b837618d91240e5bb67f1681c4b65b69c76",
+    "edition": 98,
+    "date": 1637526191490,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggFTMbody"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggNUFFgreendot"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggDESERTmag"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #99",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/99.png",
+    "dna": "e92306c055466fb3734e71af6114213d1ea04dc1",
+    "edition": 99,
+    "date": 1637526191528,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggPLAINbody"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggWESTERNgreendot"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggURBANmag"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #100",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/100.png",
+    "dna": "6343e329517515adc0b411373425d6dde6ed5434",
+    "edition": 100,
+    "date": 1637526191565,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggURBANbody"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggWOODLANDgreendot"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggFTMmag"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #101",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/101.png",
+    "dna": "09f063220b34fdf917c2edd0e28b5e4b0397a53e",
+    "edition": 101,
+    "date": 1637526191608,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggNUFFbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggPLAINsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggWESTERNmag"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggGOLDreddot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #102",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/102.png",
+    "dna": "f848e8d1746e440a32746410145092aab888943b",
+    "edition": 102,
+    "date": 1637526191650,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggGOLDbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggGOLDsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggTIGERSKINmag"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggURBANreddot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #103",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/103.png",
+    "dna": "c537d1e667bec34930c4cb5f6a752dc02216a04a",
+    "edition": 103,
+    "date": 1637526191703,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggFTMbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggURBANsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggWESTERNmag"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggURBANreddot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #104",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/104.png",
+    "dna": "ee7176b167546202b0705e89bf03e3d14bdd0393",
+    "edition": 104,
+    "date": 1637526191745,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggWOODLANDbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggDESERTsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggPLAINmag"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggURBANreddot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #105",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/105.png",
+    "dna": "6d586a8a54629c4391c6e7b09b621c07e5460c9d",
+    "edition": 105,
+    "date": 1637526191787,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggWOODLANDbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggURBANsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggTIGERSKINmag"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggWOODLANDreddot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #106",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/106.png",
+    "dna": "b639bf172ca215e2058c54d5d58cd391ca2268ee",
+    "edition": 106,
+    "date": 1637526191830,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggURBANbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggPLAINsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggTIGERSKINmag"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggFTMreddot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #107",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/107.png",
+    "dna": "e826bd1d219f51a559f82f4a9b76918da7f25127",
+    "edition": 107,
+    "date": 1637526191873,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggTIGERSKINbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggFTMsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggNUFFmag"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggNUFFreddot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #108",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/108.png",
+    "dna": "4818e161d44edd105dcb66f9d66c302bc4451d0d",
+    "edition": 108,
+    "date": 1637526191914,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggDESERTbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggPLAINsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggWESTERNmag"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggTIGERSKINreddot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #109",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/109.png",
+    "dna": "feb3b72934b66208458671866bdbb19121728788",
+    "edition": 109,
+    "date": 1637526191957,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggNUFFbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggWESTERNsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggPLAINmag"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggURBANreddot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #110",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/110.png",
+    "dna": "682c942ae5038b8200108dcb5faaa9ac1c848cd3",
+    "edition": 110,
+    "date": 1637526191999,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggWOODLANDbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggURBANsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggGOLDmag"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggDESERTreddot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #111",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/111.png",
+    "dna": "e8f43ce666398ae6d46381d1ce42fdcfb812e35b",
+    "edition": 111,
+    "date": 1637526192041,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggURBANbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggTIGERSKINsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggURBANmag"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggTIGERSKINreddot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #112",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/112.png",
+    "dna": "64e9f1e05cc0281b5c9fe0a364f585ef629ffaa6",
+    "edition": 112,
+    "date": 1637526192084,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggTIGERSKINbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggNUFFsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggGOLDmag"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggURBANreddot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #113",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/113.png",
+    "dna": "44e83d82eae6715af374d3b7537f2d52ba3b953a",
+    "edition": 113,
+    "date": 1637526192130,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggNUFFbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggNUFFsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggWOODLANDmag"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggWOODLANDreddot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #114",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/114.png",
+    "dna": "28d15f9685eea43bf055c611996201a575842244",
+    "edition": 114,
+    "date": 1637526192181,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggPLAINbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggPLAINsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggFTMmag"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggDESERTreddot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #115",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/115.png",
+    "dna": "f2150ba0b5bc057a27caa7c611f05d531c4eccf1",
+    "edition": 115,
+    "date": 1637526192223,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggAIRSOFTbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggNUFFsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggWESTERNmag"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggWESTERNreddot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #116",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/116.png",
+    "dna": "a57cd61737e1e4888fc08c41729b5f521ce59ba4",
+    "edition": 116,
+    "date": 1637526192266,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggNUFFbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggWOODLANDsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggFTMmag"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggURBANreddot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #117",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/117.png",
+    "dna": "8e4fdf897b369d533ab6efd6b4fcd0b17e98e86c",
+    "edition": 117,
+    "date": 1637526192308,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggWESTERNbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggURBANsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggDESERTmag"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggTIGERSKINreddot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #118",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/118.png",
+    "dna": "040a33465d29cea84081cb73a91a78cfbd3c6a85",
+    "edition": 118,
+    "date": 1637526192349,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggWESTERNbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggNUFFsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggURBANmag"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggNUFFreddot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #119",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/119.png",
+    "dna": "e101f57d785ec17d2a8aef4e3fa50256f6067781",
+    "edition": 119,
+    "date": 1637526192391,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggNUFFbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggWOODLANDsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggNUFFmag"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggNUFFreddot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #120",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/120.png",
+    "dna": "546308d118f0c406c2f186febb0c4a0de73db4a2",
+    "edition": 120,
+    "date": 1637526192432,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggAIRSOFTbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggWOODLANDsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggPLAINmag"
+      },
+      {
+        "trait_type": "GGRedDot",
+        "value": "ggGOLDreddot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #121",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/121.png",
+    "dna": "a1d802aaa7cae7a8a245d99f1ad288469ee6f461",
+    "edition": 121,
+    "date": 1637526192474,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggPLAINbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggDESERTsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggGOLDmag"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggGOLDgreendot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #122",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/122.png",
+    "dna": "5f9f8969596589396e58f6dcfcdcccfd7467eb77",
+    "edition": 122,
+    "date": 1637526192516,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggDESERTbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggNUFFsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggDESERTmag"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggWOODLANDgreendot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #123",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/123.png",
+    "dna": "48c9eb1d86981b83e75ab0fd8d7fd63faec0f555",
+    "edition": 123,
+    "date": 1637526192557,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggURBANbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggURBANsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggWESTERNmag"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggFTMgreendot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #124",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/124.png",
+    "dna": "c8029ce97949134aab6788f9be22b7e470aea5aa",
+    "edition": 124,
+    "date": 1637526192599,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggDESERTbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggTIGERSKINsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggFTMmag"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggNUFFgreendot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #125",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/125.png",
+    "dna": "a9f400a59ac5bf2090211f47790318deb9e6e9f1",
+    "edition": 125,
+    "date": 1637526192654,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggWESTERNbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggNUFFsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggDESERTmag"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggNUFFgreendot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #126",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/126.png",
+    "dna": "c90188ea7769edfaa37ac23a73887858b581c1ee",
+    "edition": 126,
+    "date": 1637526192698,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggWOODLANDbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggGOLDsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggURBANmag"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggPLAINgreendot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #127",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/127.png",
+    "dna": "63c75db42b5f03b698fe18bd1df448b43570e75d",
+    "edition": 127,
+    "date": 1637526192741,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggPLAINbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggGOLDsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggNUFFmag"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggFTMgreendot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #128",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/128.png",
+    "dna": "db0374dda47a374cf53a739355f0559ba4b6e1eb",
+    "edition": 128,
+    "date": 1637526192784,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggTIGERSKINbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggWOODLANDsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggWESTERNmag"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggWOODLANDgreendot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #129",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/129.png",
+    "dna": "89bfcaac1ae503cfad5fa60ef8482ec0f5827054",
+    "edition": 129,
+    "date": 1637526192826,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggGOLDbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggWESTERNsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggWESTERNmag"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggTIGERSKINgreendot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #130",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/130.png",
+    "dna": "e86975cc76ade8da774b5558253c9f0610a30677",
+    "edition": 130,
+    "date": 1637526192869,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggGOLDbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggGOLDsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggPLAINmag"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggDESERTgreendot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #131",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/131.png",
+    "dna": "17e791b3bfaba29e99e99b4aafe39726703d3837",
+    "edition": 131,
+    "date": 1637526192912,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggWOODLANDbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggFTMsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggDESERTmag"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggDESERTgreendot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #132",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/132.png",
+    "dna": "501a37c57635b42cf8453d3454f90a79e5eef379",
+    "edition": 132,
+    "date": 1637526192954,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggDESERTbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggGOLDsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggFTMmag"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggWOODLANDgreendot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #133",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/133.png",
+    "dna": "2f69a0f10659498105b06ee101eab7a181fe6144",
+    "edition": 133,
+    "date": 1637526192996,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggURBANbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggFTMsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggNUFFmag"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggGOLDgreendot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #134",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/134.png",
+    "dna": "6e531ef5e290d3a9711a9d253188165b2aade7ae",
+    "edition": 134,
+    "date": 1637526193038,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggURBANbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggNUFFsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggFTMmag"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggURBANgreendot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #135",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/135.png",
+    "dna": "64d1c48d733a51515a75755930ba7ad0aa0a871e",
+    "edition": 135,
+    "date": 1637526193080,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggPLAINbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggTIGERSKINsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggWESTERNmag"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggWOODLANDgreendot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #136",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/136.png",
+    "dna": "fbfbf2400bed8fc0a8783b5a3fac7223c77eb6e8",
+    "edition": 136,
+    "date": 1637526193134,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggDESERTbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggTIGERSKINsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggFTMmag"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggWOODLANDgreendot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #137",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/137.png",
+    "dna": "da9aa9000ea605826ccb9d4d7490e4b2be52c032",
+    "edition": 137,
+    "date": 1637526193175,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggGOLDbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggPLAINsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggNUFFmag"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggWOODLANDgreendot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #138",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/138.png",
+    "dna": "2c756224128fd2962079167352b48e631219775f",
+    "edition": 138,
+    "date": 1637526193217,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggAIRSOFTbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggDESERTsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggURBANmag"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggPLAINgreendot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #139",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/139.png",
+    "dna": "2138af51a96084f1046433b94e59e3ddb9827f0c",
+    "edition": 139,
+    "date": 1637526193259,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggFTMbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggWESTERNsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggWOODLANDmag"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggURBANgreendot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Arsenal #140",
+    "description": "An item straight from the Arsenal",
+    "image": "https://arsenalnft.art/nft/140.png",
+    "dna": "fd17bfb8f5cb9ad33f569404f2d19ecb22642b6f",
+    "edition": 140,
+    "date": 1637526193301,
+    "attributes": [
+      {
+        "trait_type": "GGBody",
+        "value": "ggAIRSOFTbody"
+      },
+      {
+        "trait_type": "GGSight",
+        "value": "ggGOLDsight"
+      },
+      {
+        "trait_type": "GGMag",
+        "value": "ggTIGERSKINmag"
+      },
+      {
+        "trait_type": "GGGreenDot",
+        "value": "ggPLAINgreendot"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]

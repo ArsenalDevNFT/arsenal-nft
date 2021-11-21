@@ -1,0 +1,15 @@
+{
+  "name": "Arsenal #10",
+  "description": "An item straight from the Arsenal",
+  "image": "https://arsenalnft.art/nft/10.png",
+  "dna": "c1246f96d97c19d3d60d29346397075e179617d1",
+  "edition": 10,
+  "date": 1637526188317,
+  "attributes": [
+    {
+      "trait_type": "GGBody",
+      "value": "ggFTMbody"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Arsenal #6",
+  "description": "An item straight from the Arsenal",
+  "image": "https://arsenalnft.art/nft/6.png",
+  "dna": "614e030ead64da6184690ca06631af8dbc29619d",
+  "edition": 6,
+  "date": 1637526188200,
+  "attributes": [
+    {
+      "trait_type": "GGBody",
+      "value": "ggWESTERNbody"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
