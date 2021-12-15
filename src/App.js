@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Box, Nav, Main, Button, Grommet, Heading, Image, Footer, TextInput } from "grommet";
+import { Box, Nav, Main, Button, Grommet, Heading, Image, Footer, TextInput, Text } from "grommet";
 import { customTheme } from "./theme";
 import Web3 from 'web3';
 import detectEthereumProvider from '@metamask/detect-provider';
@@ -160,22 +160,12 @@ function App() {
             }
           </Box>
           <Box align="center" justify="center" direction="column" flex="shrink" overflow="hidden" responsive fill="horizontal" pad="large">
-            {
-              disableTimer ?
-                <div></div>
-                :
-                <Heading level="2" textAlign="center" color="black" size="medium" margin={{ "bottom": "small" }}>
-                  Able to mint in:
-                </Heading>
-            }
-            {
-              disableTimer ?
-                <Heading level="2" size="large" textAlign="center" color="black" margin={{ "bottom": "medium", "top": "small" }}>
-                  Mint Open!
-                </Heading>
-                :
-                <Timer initialMinute={minutes} initialSeconds={seconds} timerDisabler={setDisableTimer}></ Timer>
-            }
+            <Heading level="2" size="large" textAlign="center" color="black" pad={{ "bottom": "xsmall" }} margin={{ "bottom": "xsmall" }}   >
+              Minting will open on
+            </Heading>
+            <Heading level="2" size="large" textAlign="center" color="black" pad={{ "top": "xsmall" }} margin={{ "top": "xsmall" }}  >
+              December 27 at 1:00 PM PST.
+            </Heading>
           </Box>
           <Box align="center" justify="center" direction="column" flex="shrink" overflow="hidden" responsive fill="horizontal">
             <Heading level="1" size="medium" textAlign="center" color="black" margin="small">
@@ -186,7 +176,7 @@ function App() {
             <Box align="center" justify="center" direction="column" gap="medium">
               <Image src={activenft} />
               <TextInput placeholder="Input NFT # to display" size="large" textAlign="center" type="text" value={lookup} onChange={event => setLookup(event.target.value)} />
-              <Button onClick={() => setActivenft(nftfetch(lookup))} label="Display" size="large" primary color="black" />
+              <Button onClick={() => setActivenft(nftfetch(lookup))} label="Display" size="large" primary color="black" primary disabled />
             </Box>
           </Main>
           <Main pad="medium" align="center" justify="center" direction="column" overflow="hidden" fill="horizontal" flex="grow" gap="medium" >
@@ -196,9 +186,19 @@ function App() {
               </Heading>
               <TextInput placeholder="Input amount(limit 10 at a time)" size="large" textAlign="center" type="text" value={mintingamount} onChange={event => setMintingamount(event.target.value)} />
               <Box align="center" justify="center" direction="row" gap="medium">
-                <Button onClick={() => mintnft(mintingamount)} label="Click here to Mint!" size="large" primary color="black" />
+                <Button onClick={() => mintnft(mintingamount)} label="Click here to Mint!" size="large" primary color="black" primary disabled />
               </Box>
-              <Button onClick={() => mintpresalenft()} label="Click here if you are in Pre-sale!" size="large" primary color="#8b572a" />
+              <Button onClick={() => mintpresalenft()} label="Click here if you are in Pre-sale!" size="large" primary color="#8b572a" primary disabled />
+            </Box>
+            <Box align="center" justify="center" direction="column" gap="medium" width="large" >
+              <Heading level="1" size="small" textAlign="center" color="black" margin="small">
+                About the Arsenal
+              </Heading>
+              <Text color="black" weight="bold" size="large" textAlign="center">
+                Inspired by such legally distinct classics such as Corner Strike and Caw of Ooty, Arsenal is our way of bringing the fun of pixelated weaponry customization to the NFT space.
+                "But why Arsenal? I already have my smokin’ primates, custom gutter punks, and goose avatars to fulfill my randomly generated personalized needs!”. While we here at Arsenal love our permutated sparkle tee’s as much as the next arms manufacturer we prefer our velour bathrobes to be bullet proof. And when it comes to crypto why hodl when you can carry!
+                If handguns aren't your thing and you prefer shells to shots, stay tuned as shotguns, snipers, and more will be coming soon! So load your clips, strap on your holsters and welcome to the Arsenal!
+              </Text>
             </Box>
           </Main>
           <Footer align="end" direction="row" flex justify="center" gap="medium" pad="large">
