@@ -104,7 +104,7 @@ function App() {
 
   function mintpresalenft() {
     let price = 50000000000000000000;
-    masterContract.methods.mint().send( {from: currentAccount, value: price} );
+    masterContract.methods.mintWhitelist().send( {from: currentAccount, value: price} );
   }
 
   function nftfetch(id) {
