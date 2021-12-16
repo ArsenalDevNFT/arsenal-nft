@@ -4,7 +4,6 @@ import { customTheme } from "./theme";
 import Web3 from 'web3';
 import detectEthereumProvider from '@metamask/detect-provider';
 import { master } from './contracts';
-import Timer from "./components/Timer";
 import { Twitter, Tooltip } from 'grommet-icons';
 
 function App() {
@@ -20,9 +19,6 @@ function App() {
 
   const [connected, setConnected] = useState(false);
   const [initialized, setinitialized] = useState(false);
-  const [disableTimer, setDisableTimer] = useState(true);
-  const [minutes, setMinutes] = useState();
-  const [seconds, setSeconds] = useState();
   const [lookup, setLookup] = useState("");
   const [activenft, setActivenft] = useState("");
   const [mintingamount, setMintingamount] = useState("");
@@ -113,11 +109,7 @@ function App() {
       timeremaining = localStorage.getItem('cooldown') - timedifference;
     };
     if (timeremaining > 0) {      
-      setMinutes(Math.floor(timeremaining / 60));
-      setSeconds(timeremaining % 60);
-      setDisableTimer(false);
     } else {
-      setDisableTimer(true);
     };
   }
 
