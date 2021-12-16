@@ -8,11 +8,8 @@ import { Twitter, Tooltip } from 'grommet-icons';
 
 function App() {
   
-  //let currentAccount;
   let provider;
   let chainid;
-
-  //let masterContract;
 
   const [masterContract, setMasterContract] = useState();
   const [currentAccount, setCurrentAccount] = useState();
@@ -61,7 +58,7 @@ function App() {
     window.ethereum.once('chainChanged', handleChainChanged);
   }
   function handleChainChanged(chainid) {
-    if (chainid === 4002) {
+    if (chainid === 250) {
       handleAccountsChanged();
     } else {
       window.location.reload();
@@ -73,7 +70,7 @@ function App() {
     window.ethereum.on('accountsChanged', handleAccountsChanged);
   }
   function handleAccountsChanged(accounts) {
-    if (chainid === 4002) {
+    if (chainid === 250) {
       if (accounts.length === 0) {
         console.log('Please connect to MetaMask.');
         setConnected(false)
@@ -81,7 +78,6 @@ function App() {
       else if (accounts[0] !== currentAccount) {
         setCurrentAccount(accounts[0]);
         setConnected(true);
-        timerinit();
       }
     } else {
       console.log('Please connect to FTM Mainnet');
@@ -101,26 +97,14 @@ function App() {
       });
   }
 
-  function timerinit() {
-    let timedifference = 0;
-    let timeremaining = 0;
-    if (localStorage.getItem('timestart') != null) {
-      timedifference = Math.floor(Date.now() / 1000) - localStorage.getItem('timestart');
-      timeremaining = localStorage.getItem('cooldown') - timedifference;
-    };
-    if (timeremaining > 0) {      
-    } else {
-    };
-  }
-
   function mintnft(amount) {
-    let price = 100000000000000000;
+    let price = 50000000000000000000;
     masterContract.methods.mint(amount).send( {from: currentAccount, value: amount*price} );
   }
 
   function mintpresalenft() {
-    let price = 100000000000000000;
-    masterContract.methods.mint(1).send( {from: currentAccount, value: price} );
+    let price = 50000000000000000000;
+    masterContract.methods.mint().send( {from: currentAccount, value: price} );
   }
 
   function nftfetch(id) {
