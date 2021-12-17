@@ -19,8 +19,11 @@ function App() {
   const [lookup, setLookup] = useState("");
   const [activenft, setActivenft] = useState("");
   const [mintingamount, setMintingamount] = useState("");
+  const [amountminted, setAmountminted] = useState();
 
   const Init = async () => {
+
+    let contract;
 
     setinitialized(true);
     
@@ -35,19 +38,25 @@ function App() {
     }
     function startApp(provider) {
       const web3 = new Web3(provider);
-      setMasterContract( new web3.eth.Contract(master.abi, '0xBb796E285dB07225853a901f29CbFb64408dF00C') );
+      setMasterContract( new web3.eth.Contract(master.abi, '0xB8F6237480a08819C547ED4Ec0C6BbB0f4704E4B') );
       
       if (provider !== window.ethereum) {
         console.error('Do you have multiple wallets installed?');
       }
     }
+    
+    const web3 = new Web3(provider);
+    contract = new web3.eth.Contract(master.abi, '0xB8F6237480a08819C547ED4Ec0C6BbB0f4704E4B');
+    setAmountminted(await contract.methods.totalSupply().call());
       
+    
     window.ethereum
       .request({ method: 'eth_accounts' })
       .then(handleAccountsChanged)
       .catch((err) => {
         console.error(err);
     });
+
   }
 
   if (initialized === false) {
@@ -142,6 +151,12 @@ function App() {
             <Heading level="2" size="large" textAlign="center" color="black" pad={{ "top": "xsmall" }} margin={{ "top": "xsmall" }}  >
               December 27 at 1:00 PM PST.
             </Heading>
+            <Heading level="3" size="large" textAlign="center" color="black" pad={{ "top": "xsmall","bottom": "xsmall" }} margin={{ "top": "xsmall","bottom": "xsmall" }}  >
+              NFTs will be revealed one week after open
+            </Heading>
+            <Heading level="3" size="large" textAlign="center" color="black" pad={{ "top": "xsmall" }} margin={{ "top": "xsmall" }}  >
+              or upon selling out, whichever occurs first.
+            </Heading>
           </Box>
           <Box align="center" justify="center" direction="column" flex="shrink" overflow="hidden" responsive fill="horizontal">
             <Heading level="1" size="medium" textAlign="center" color="black" margin="small">
@@ -152,7 +167,7 @@ function App() {
             <Box align="center" justify="center" direction="column" gap="medium">
               <Image src={activenft} />
               <TextInput placeholder="Input NFT # to display" size="large" textAlign="center" type="text" value={lookup} onChange={event => setLookup(event.target.value)} />
-              <Button onClick={() => setActivenft(nftfetch(lookup))} label="Display" size="large" primary color="black" primary disabled />
+              <Button onClick={() => setActivenft(nftfetch(lookup))} label="Display" size="large" primary disabled color="black" />
             </Box>
           </Main>
           <Main pad="medium" align="center" justify="center" direction="column" overflow="hidden" fill="horizontal" flex="grow" gap="medium" >
@@ -160,11 +175,14 @@ function App() {
               <Heading level="1" size="medium" textAlign="center" color="black" margin="small">
                 Mint your Arsenal!
               </Heading>
+              <Heading level="1" size="small" textAlign="center" color="black" margin="small">
+                {amountminted} of 550 minted!
+              </Heading>
               <TextInput placeholder="Input amount(limit 10 at a time)" size="large" textAlign="center" type="text" value={mintingamount} onChange={event => setMintingamount(event.target.value)} />
               <Box align="center" justify="center" direction="row" gap="medium">
-                <Button onClick={() => mintnft(mintingamount)} label="Click here to Mint!" size="large" primary color="black" primary disabled />
+                <Button onClick={() => mintnft(mintingamount)} label="Click here to Mint!" size="large" primary disabled color="black" />
               </Box>
-              <Button onClick={() => mintpresalenft()} label="Click here if you are in Pre-sale!" size="large" primary color="#8b572a" primary disabled />
+              <Button onClick={() => mintpresalenft()} label="Click here if you are in Pre-sale!" size="large" primary disabled color="#8b572a" />
             </Box>
             <Box align="center" justify="center" direction="column" gap="medium" width="large" >
               <Heading level="1" size="small" textAlign="center" color="black" margin="small">
