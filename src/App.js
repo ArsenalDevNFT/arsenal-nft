@@ -196,6 +196,27 @@ function App() {
                 "But why Arsenal? I already have my smokin’ primates, custom gutter punks, and goose avatars to fulfill my randomly generated personalized needs!”. While we here at Arsenal love our permutated sparkle tee’s as much as the next arms manufacturer we prefer our velour bathrobes to be bullet proof. And when it comes to crypto why hodl when you can carry!
                 If handguns aren't your thing and you prefer shells to shots, stay tuned as shotguns, snipers, and more will be coming soon! So load your clips, strap on your holsters and welcome to the Arsenal!
               </Text>
+              <Heading level="1" size="small" textAlign="center" color="black" pad={{ "top": "xsmall" }} margin={{ "top": "xsmall" }}  >
+                Components
+              </Heading>
+              <Text color="black" weight="bold" size="large" textAlign="center">
+                3 Backgrounds: Shells, Concrete, Target
+              </Text>
+              <Text color="black" weight="bold" size="large" textAlign="center">
+                10 Styles: Plain, Airsoft, FTM, Desert, Nuff, Gold, Tigerskin, Western, Woodland, Urban
+              </Text>
+              <Text color="black" weight="bold" size="large" textAlign="center">
+                MKnight Pieces: Body, Laser, Mag, Suppressor
+              </Text>
+              <Text color="black" weight="bold" size="large" textAlign="center">
+                Golden Goose Pieces: Body, Laser, Mag, Sight
+              </Text>
+              <Text color="black" weight="bold" size="large" textAlign="center">
+                Schlock Pieces: Body, Laser, Mag, Sight, Suppressor
+              </Text>
+              <Text color="black" weight="bold" size="large" textAlign="center">
+                Bolt Pieces: Body, Barrel, Scope
+              </Text>
             </Box>
           </Main>
           <Footer align="end" direction="row" flex justify="center" gap="medium" pad="large">
