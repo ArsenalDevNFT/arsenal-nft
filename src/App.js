@@ -175,6 +175,9 @@ function App() {
               <Heading level="1" size="medium" textAlign="center" color="black" margin="small">
                 Mint your Arsenal!
               </Heading>
+              <Box align="center" justify="center" direction="column" flex="shrink" overflow="hidden" responsive fill="horizontal" >
+                <Image src="https://arsenalnft.art/Examples.png" />
+              </Box>
               <Heading level="1" size="small" textAlign="center" color="black" margin="small">
                 {amountminted} of 550 minted!
               </Heading>
