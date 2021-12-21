@@ -157,6 +157,9 @@ function App() {
             <Heading level="3" size="large" textAlign="center" color="black" pad={{ "top": "xsmall" }} margin={{ "top": "xsmall" }}  >
               or upon selling out, whichever occurs first.
             </Heading>
+            <Heading level="3" size="large" textAlign="center" color="black" pad={{ "top": "xsmall","bottom": "xsmall" }} margin={{ "top": "xsmall","bottom": "xsmall" }}  >
+              The Arsenal NFTs are proudly using the Fantom ecosystem!
+            </Heading>
           </Box>
           <Box align="center" justify="center" direction="column" flex="shrink" overflow="hidden" responsive fill="horizontal">
             <Heading level="1" size="medium" textAlign="center" color="black" margin="small">
