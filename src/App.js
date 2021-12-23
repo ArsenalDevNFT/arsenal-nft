@@ -149,7 +149,7 @@ function App() {
               Minting will open on
             </Heading>
             <Heading level="2" size="large" textAlign="center" color="black" pad={{ "top": "xsmall" }} margin={{ "top": "xsmall" }}  >
-              December 27 at 1:00 PM PST.
+              January 18th at 1:00 PM PST.
             </Heading>
             <Heading level="3" size="large" textAlign="center" color="black" pad={{ "top": "xsmall","bottom": "xsmall" }} margin={{ "top": "xsmall","bottom": "xsmall" }}  >
               NFTs will be revealed one week after open
