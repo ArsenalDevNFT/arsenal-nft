@@ -184,6 +184,9 @@ function App() {
               <Heading level="1" size="small" textAlign="center" color="black" margin="small">
                 {amountminted} of 550 minted!
               </Heading>
+              <Heading level="3" size="large" textAlign="center" color="black" pad={{ "top": "xsmall", "bottom": "xsmall" }} margin={{ "top": "xsmall", "bottom": "xsmall" }}  >
+                Price to mint is 50 FTM
+              </Heading>
               <TextInput placeholder="Input amount(limit 10 at a time)" size="large" textAlign="center" type="text" value={mintingamount} onChange={event => setMintingamount(event.target.value)} />
               <Box align="center" justify="center" direction="row" gap="medium">
                 <Button onClick={() => mintnft(mintingamount)} label="Click here to Mint!" size="large" primary disabled color="black" />
