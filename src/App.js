@@ -189,7 +189,7 @@ function App() {
               </Heading>
               <TextInput placeholder="Input amount(limit 10 at a time)" size="large" textAlign="center" type="text" value={mintingamount} onChange={event => setMintingamount(event.target.value)} />
               <Box align="center" justify="center" direction="row" gap="medium">
-                <Button onClick={() => mintnft(mintingamount)} label="Click here to Mint!" size="large" primary disabled color="black" />
+                <Button onClick={() => mintnft(mintingamount)} label="Click here to Mint!" size="large" primary color="black" />
               </Box>
               <Button onClick={() => mintpresalenft()} label="Click here if you are in Pre-sale!" size="large" primary disabled color="#8b572a" />
             </Box>
